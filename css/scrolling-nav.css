@@ -1,0 +1,62 @@
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+h1, h1 a  {
+  color:#fff;
+  
+}
+
+
+.fa {
+  color: #FF6600;
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  float: initial;
+}
+
+
+.text-left {
+	float: left;
+}
+.text-right {
+	float: right;
+}
+
+header{
+  background-color:#FF6600 ;
+}
+
+
+.bg-dark{
+  background-color: #464646;
+}
+#about{
+  background: #FFFFFA;
+}
+#abilities{
+  background: #5B605F;
+}
+#world{
+  background: #FFFFFA;
+}
+#contact{
+  background: #5B605F;
+}
+/* Color Theme Swatches in Hex */
+
+/*
+
+#FFFFFA 
+
+#A1A194
+
+#5B605F 
+
+#464646
+
+#FF6600
