@@ -5,9 +5,11 @@ header {
 section {
   padding: 150px 0;
 }
-h1, h1 a  {
-  color:#fff;
-  
+
+h1,
+h1 a {
+  color: #fff;
+
 }
 
 
@@ -21,31 +23,52 @@ h1, h1 a  {
 
 
 .text-left {
-	float: left;
+  float: left;
 }
+
 .text-right {
-	float: right;
+  float: right;
 }
 
-header{
-  background-color:#FF6600 ;
+header {
+  background-color: #FF6600;
 }
 
 
-.bg-dark{
+.bg-dark {
   background-color: #464646;
 }
-#about{
+
+#about {
   background: #FFFFFA;
 }
-#abilities{
+
+#abilities {
   background: #5B605F;
 }
-#world{
+
+#world {
   background: #FFFFFA;
 }
-#contact{
+
+#contact {
   background: #5B605F;
+}
+
+img {
+  align-items: center;
+}
+
+.text-orange{
+  color: #FF6600;
+}
+
+.p-2{
+  vertical-align: middle;
+
+}
+i{
+  vertical-align: baseline;
 }
 /* Color Theme Swatches in Hex */
 
