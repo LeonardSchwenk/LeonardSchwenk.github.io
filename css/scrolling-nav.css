@@ -59,16 +59,29 @@ img {
   align-items: center;
 }
 
-.text-orange{
+.text-orange {
   color: #FF6600;
 }
 
-.p-2{
-  vertical-align: middle;
-
+.iconPadding {
+  padding: 0;
 }
-i{
-  vertical-align: baseline;
+.iconPadding:hover {
+  color: #FFFFFA;
+  padding: 0;
+}
+
+.p-1 {
+  color: #FFFFFA;
+  padding: 0px 5px 0px 5px !important;
+}
+
+.p-2 {
+  color: #FFFFFA;
+  padding: 0px !important;
+}
+.typewrite:hover{
+  color: #FFFFFA;
 }
 /* Color Theme Swatches in Hex */
 
