@@ -24,16 +24,11 @@ h1 a {
 
 .text-left {
   float: left;
-  padding: 0px 0px !important;
 
 }
-div.col-md-auto{
-  padding: 0px 0px !important;
 
-}
 .text-right {
   float: right;
-  padding: 0px 0px !important;
   margin: 0pxs;
 }
 
@@ -64,8 +59,7 @@ header {
 
 img {
   align-items: center;
-  padding: 0px 0px !important;
-
+  border-radius: 50%;
 }
 
 .text-orange {
