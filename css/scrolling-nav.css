@@ -60,6 +60,8 @@ header {
 img {
   align-items: center;
   border-radius: 50%;
+  max-width: 100%;
+
 }
 
 .text-orange {
