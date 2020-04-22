@@ -6,10 +6,10 @@ section {
   padding: 150px 0;
 }
 
-body{
-
-  overflow-x:  hidden;
+html, body{
+	overflow-x: hidden;
 }
+
 h1,
 h1 a {
   color: #fff;
